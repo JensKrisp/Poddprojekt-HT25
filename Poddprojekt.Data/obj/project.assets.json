@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\minna\\source\\repos\\Poddprojekt\\Poddprojekt.Data\\Poddprojekt.Data.csproj",
+      "projectUniqueName": "C:\\Users\\minna\\Documents\\GitHub\\Poddprojekt-HT25\\Poddprojekt.Data\\Poddprojekt.Data.csproj",
       "projectName": "Poddprojekt.Data",
-      "projectPath": "C:\\Users\\minna\\source\\repos\\Poddprojekt\\Poddprojekt.Data\\Poddprojekt.Data.csproj",
+      "projectPath": "C:\\Users\\minna\\Documents\\GitHub\\Poddprojekt-HT25\\Poddprojekt.Data\\Poddprojekt.Data.csproj",
       "packagesPath": "C:\\Users\\minna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\minna\\source\\repos\\Poddprojekt\\Poddprojekt.Data\\obj\\",
+      "outputPath": "C:\\Users\\minna\\Documents\\GitHub\\Poddprojekt-HT25\\Poddprojekt.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\minna\\AppData\\Roaming\\NuGet\\NuGet.Config",

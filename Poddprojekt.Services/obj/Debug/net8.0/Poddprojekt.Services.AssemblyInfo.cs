@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Poddprojekt.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51ac8cd8e40b0d7c45f8c3a53c4774a40cb930a9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a756ccbb0592c21a0705cd2b071e8080dfdf333")]
 [assembly: System.Reflection.AssemblyProductAttribute("Poddprojekt.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Poddprojekt.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

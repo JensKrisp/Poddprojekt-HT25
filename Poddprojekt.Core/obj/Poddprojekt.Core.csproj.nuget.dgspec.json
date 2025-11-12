@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\minna\\source\\repos\\Poddprojekt\\Poddprojekt.Core\\Poddprojekt.Core.csproj": {}
+    "C:\\Users\\minna\\Documents\\GitHub\\Poddprojekt-HT25\\Poddprojekt.Core\\Poddprojekt.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\minna\\source\\repos\\Poddprojekt\\Poddprojekt.Core\\Poddprojekt.Core.csproj": {
+    "C:\\Users\\minna\\Documents\\GitHub\\Poddprojekt-HT25\\Poddprojekt.Core\\Poddprojekt.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\minna\\source\\repos\\Poddprojekt\\Poddprojekt.Core\\Poddprojekt.Core.csproj",
+        "projectUniqueName": "C:\\Users\\minna\\Documents\\GitHub\\Poddprojekt-HT25\\Poddprojekt.Core\\Poddprojekt.Core.csproj",
         "projectName": "Poddprojekt.Core",
-        "projectPath": "C:\\Users\\minna\\source\\repos\\Poddprojekt\\Poddprojekt.Core\\Poddprojekt.Core.csproj",
+        "projectPath": "C:\\Users\\minna\\Documents\\GitHub\\Poddprojekt-HT25\\Poddprojekt.Core\\Poddprojekt.Core.csproj",
         "packagesPath": "C:\\Users\\minna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\minna\\source\\repos\\Poddprojekt\\Poddprojekt.Core\\obj\\",
+        "outputPath": "C:\\Users\\minna\\Documents\\GitHub\\Poddprojekt-HT25\\Poddprojekt.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\minna\\AppData\\Roaming\\NuGet\\NuGet.Config",

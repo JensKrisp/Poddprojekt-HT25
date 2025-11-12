@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\minna\\Documents\\GitHub\\Poddprojekt-HT25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAB2B4D-9366-44A6-B5D6-9595FFD61F15}|Poddprojekt\\Poddprojekt.csproj|c:\\users\\minna\\documents\\github\\poddprojekt-ht25\\poddprojekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAB2B4D-9366-44A6-B5D6-9595FFD61F15}|Poddprojekt\\Poddprojekt.csproj|solutionrelative:poddprojekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\minna\\Documents\\GitHub\\Poddprojekt-HT25\\Poddprojekt\\Program.cs",
+              "RelativeDocumentMoniker": "Poddprojekt\\Program.cs",
+              "ToolTip": "C:\\Users\\minna\\Documents\\GitHub\\Poddprojekt-HT25\\Poddprojekt\\Program.cs",
+              "RelativeToolTip": "Poddprojekt\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:49:08.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
